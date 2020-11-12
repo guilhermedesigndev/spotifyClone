@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Seus podcasts mais escutados",
+    "itens": [
+      {
+        "photo": "https://aerp.org.br/wp-content/uploads/2019/11/podcast.jpg",
+        "subtitle": {
+          "title": "Startup Catalyst",
+          "description": "Episódios de podcasts escolhidos para você"
+        }
+      },
+      {
+        "photo": "https://blog.shoppub.com.br/wp-content/uploads/2018/05/Capa-6-podcasts-sobre-nego%CC%81cios-que-voce%CC%82-precisa-ouvir.jpg",
+        "subtitle": {
+          "title": "Talking feds",
+          "description": "Episódios de podcasts escolhidos para você"
+        }
+      },
+      {
+        "photo": "https://cortex-intelligence.com/wp-content/uploads/2019/07/PR_podcast_relacoes_publicas.png",
+        "subtitle": {
+          "title": "Podc",
+          "description": "Episódios de podcasts escolhidos para você"
+        }
+      }    
+    ]
+  },
+  {
+    "title": "Top mais tocadas Brasil",
+    "itens": [
+      {
+        "photo": "https://i2.wp.com/blog.bileskydiscos.com.br/wp-content/uploads/2018/03/as-100-musicas-mais-tocadas-em-1968-lp-vinil.png?resize=800%2C445&ssl=1",
+        "subtitle": {
+          "title": "Deadly Teknique",
+          "description": "Escute esse novo estilo do momento"
+        }
+      },
+      {
+        "photo": "https://i.scdn.co/image/dc5737743a001d3e522f7d772f474537540af4e5",
+        "subtitle": {
+          "title": "Hip Hop",
+          "description": "Escute esse novo estilo do momento"
+        }
+      }
+    ]
+  }, 
+  {
+    "title": "Escute de novo",
+    "itens": [
+      {
+        "photo": "https://i.scdn.co/image/ab67706f000000032cdb0982697cc0ae43b1b5b6",
+        "subtitle": {
+          "title": "Rock 00s",
+          "description": "Escute esse novo estilo do momento"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Novos episódios de podcast",
+    "itens": [
+      {
+        "photo": "https://assets.b9.com.br/wp-content/uploads/2019/11/cover-spotify2-3.jpg",
+        "subtitle": {
+          "title": "Popcast",
+          "description": "Escute esse novo episódio"
+        }
+      }
+    ]
+  }
+]
